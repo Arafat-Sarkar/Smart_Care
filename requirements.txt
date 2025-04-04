@@ -50,7 +50,6 @@ pyscreenshot
 PyScreeze
 pytweening
 pytz
-pywin32
 pyzmq
 requests
 sqlparse
